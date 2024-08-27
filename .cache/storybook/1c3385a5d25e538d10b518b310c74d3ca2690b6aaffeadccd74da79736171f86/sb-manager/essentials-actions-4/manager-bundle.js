@@ -1,0 +1,1 @@
+import '/Users/junyeong/my-vue-app/node_modules/@storybook/addon-essentials/dist/actions/manager.js';

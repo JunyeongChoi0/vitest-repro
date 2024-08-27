@@ -1,0 +1,1 @@
+import '/Users/junyeong/my-vue-app/node_modules/@chromatic-com/storybook/dist/manager.mjs';
