@@ -7,5 +7,8 @@ export default defineConfig({
   test: {
     environment: "jsdom",
     setupFiles: ["./setupTest.ts"],
+    resolve: {
+      conditions: ["asdft"],
+    },
   },
 });
